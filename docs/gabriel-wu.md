@@ -1,5 +1,7 @@
 ### Introduction
 
-Hello my name is: 
+*Name: NewUser 
 
 *Favorite color: blueberry
+
+
